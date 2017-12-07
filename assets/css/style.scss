@@ -3,6 +3,16 @@
 
 @import 'jekyll-theme-architect';
 
+header h1 {
+  width: 740px;
+  margin-top: 0;
+  margin-bottom: 0.2em;
+  font-size: 62px;
+  font-weight: normal;
+  line-height: 1;
+  color: #fff;
+  letter-spacing: -1px;
+}
 .inner {
   position: relative;
   width: 1140px;
