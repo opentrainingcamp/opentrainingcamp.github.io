@@ -1,3 +1,18 @@
+# New head for Free and Open source technology tutorials and training materials
+
+We will collect works done in many [users groups](#users-groups) that I manage, and some free materials of my own courses at [ISSAE Cnamm Liban](http://depinfo.isae.edu.lb)
+
+// THIS SITE IS JUST NEWLY CREATED IS UNDER CONSTRUCTION
+
+---
+# Users Groups
+at Open Source Lebanese Movement and ISSAE Cnam Liban managed by me ([Pascal Fares](https://fr.linkedin.com/in/pascalfares))
+
+* [Open Source Lebanese Movement](http://oslm.cofares.net/)
+* [Lebanese Java Users Group](http://ljug.cofares.net/)
+* [Lebanese Linux Users Group](http://lalux.cofares.net/)
+
+---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/opentrainingcamp/opentrainingcamp.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
