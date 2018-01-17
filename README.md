@@ -1,8 +1,12 @@
 # New head for Free and Open source technology tutorials and training materials
 
-We will collect works done in many [users groups](#users-groups) that I manage, and some free materials of my own courses at [ISSAE Cnamm Liban](http://depinfo.isae.edu.lb)
+We will collect works done in many [users groups](#users-groups) that I manage, and some free materials of my own courses at [ISSAE Cnamm Liban](http://depinfo.isae.edu.lb) and other online vidéo présentation on the specific playlist of our [`open free activities resources channel`](https://www.youtube.com/pascalfares)
 
 > // THIS SITE AND PROJECT IS JUST NEWLY CREATED IS UNDER CONSTRUCTION IF YOU WICH TO CONTRIBUTE create an issue 
+
+The Youtube chanel associated to this Open Training Camp [Open Training at cofares playlist](https://goo.gl/1XwCaq)
+
+If you need some new topics please ask for them on the issue tracker .. [just here click to add issue](https://goo.gl/rB2CSh)
 
 ---
 # Users Groups
