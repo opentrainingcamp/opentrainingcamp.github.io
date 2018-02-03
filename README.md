@@ -18,9 +18,11 @@ at Open Source Lebanese Movement and ISSAE Cnam Liban managed by me ([Pascal Far
 
 # Projects for courses complements at Cnam Liban
 
-* [Java and J2ee](http://java.cofares.net)
+* [Java and J2ee tutorials](http://java.cofares.net)
 * [Linux and C system programming](http://lps.cofares.net)
 * [Concurrent and parallel programming in Java](http://concurrence.cofares.net/)
+* [Online and mobile store in the Cloud](http://opentraining.cofares.net/TP-GLG-Cnam-Liban/)
+
 ---
 
 ### Support or Contact
